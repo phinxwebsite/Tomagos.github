@@ -1,1 +1,1 @@
-# Tomagos.github
+Its a command
